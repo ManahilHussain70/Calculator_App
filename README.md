@@ -22,7 +22,7 @@ This app supports basic arithmetic operations like **Add, Subtract, Multiply, Di
 ### Performing a Calculation
 <img src="screenshots/calculator.png" width="300">
 
-*(Add your screenshots inside a `screenshots` folder in the project root)*
+
 
 ---
 
