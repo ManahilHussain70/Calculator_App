@@ -1,16 +1,44 @@
-# calculator_app
+# 📱 Calculator App
 
-A new Flutter project.
+A simple and stylish calculator built with **Flutter**.  
+This app supports basic arithmetic operations like **Add, Subtract, Multiply, Divide, Percentage** with a clean UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- % Percentage conversion
+- 🧹 Clear and Delete functions
+- Modern & responsive UI design
+- Works on Android and iOS
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Screen
+<img src="screenshots/home.png" width="300">
+
+### Performing a Calculation
+<img src="screenshots/calculation.png" width="300">
+
+*(Add your screenshots inside a `screenshots` folder in the project root)*
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/ManahilHussain70/Calculator_App.git
+
+# Navigate to project directory
+cd Calculator_App
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
