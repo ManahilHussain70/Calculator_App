@@ -17,10 +17,10 @@ This app supports basic arithmetic operations like **Add, Subtract, Multiply, Di
 ## 📸 Screenshots
 
 ### Home Screen
-<img src="screenshots/home.png" width="300">
+<img src="screenshots/calculator_app.png" width="300">
 
 ### Performing a Calculation
-<img src="screenshots/calculation.png" width="300">
+<img src="screenshots/calculator.png" width="300">
 
 *(Add your screenshots inside a `screenshots` folder in the project root)*
 
