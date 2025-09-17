@@ -19,6 +19,8 @@ This app supports basic arithmetic operations like **Add, Subtract, Multiply, Di
 ### Home Screen
 <img src="screenshots/calculator_app.png" width="300">
 
+<img src="screenshots/calculator_ui2.png" width="300">
+
 ## 🎥 Demo Video
 [Watch the Demo](screenshots/calculator.mp4)
 
