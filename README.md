@@ -10,7 +10,7 @@ This app supports basic arithmetic operations like **Add, Subtract, Multiply, Di
 - % Percentage conversion
 - 🧹 Clear and Delete functions
 - Modern & responsive UI design
-- Works on Android and iOS
+- Works on Android and iOS.
 
 ---
 
