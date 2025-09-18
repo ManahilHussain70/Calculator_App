@@ -4,7 +4,7 @@ A simple and stylish calculator built with **Flutter**.
 This app supports basic arithmetic operations like **Add, Subtract, Multiply, Divide, Percentage** with a clean UI.  
 
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)](https://flutter.dev)  
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
+
 
 ---
 
