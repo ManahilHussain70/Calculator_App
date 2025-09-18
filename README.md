@@ -22,7 +22,7 @@ This app supports basic arithmetic operations like **Add, Subtract, Multiply, Di
 <img src="screenshots/calculator_ui2.png" width="300">
 
 ## 🎥 Demo Preview
-<img src="screenshots/calculator.gif" width="300">
+<img src="screenshots/calculator-ezgif.com-video-to-gif-converter.gif" width="300">
 
 
 ---
