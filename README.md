@@ -1,7 +1,7 @@
 # 📱 Calculator App  
 
 A simple and stylish calculator built with **Flutter**.  
-This app supports basic arithmetic operations like **Add, Subtract, Multiply, Divide, Percentage** with a clean UI.  
+This app supports basic arithmetic operations like **Add, Subtract, Multiply, Divide, and Percentage** with a clean and modern UI.  
 
 [![Flutter](https://img.shields.io/badge/Framework-Flutter-blue)](https://flutter.dev)  
 
@@ -10,21 +10,26 @@ This app supports basic arithmetic operations like **Add, Subtract, Multiply, Di
 
 ## 📑 Table of Contents
 - [Features](#-features)
+- [Technologies](#-technologies)
 - [Screenshots](#-screenshots)
 - [Demo](#-demo)
 - [Getting Started](#-getting-started)
-- [Technologies](#-technologies)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
 ## ✨ Features
 - ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division  
-- % Percentage conversion  
+- % Percentage calculation  
 - 🧹 Clear and Delete functions  
 - 🎨 Modern & responsive UI design  
 - 📱 Works on Android and iOS  
+
+---
+
+## 🛠️ Technologies
+- Flutter (Dart)  
+- Material Design  
+- Android & iOS support  
 
 ---
 
